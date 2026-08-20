@@ -1,0 +1,48 @@
+{
+    "pageTitle": "Usuarios",
+    "pageSubtitle": "Gestiona quién tiene acceso a la aplicación y qué puede hacer",
+    "newUser": "Nuevo Usuario",
+    "editUser": "Editar Usuario",
+    "searchUsers": "Buscar usuario",
+    "tableHeaderName": "Nombre",
+    "tableHeaderEmail": "Correo",
+    "tableHeaderRole": "Rol",
+    "tableHeaderStatus": "Estado",
+    "tableHeaderActions": "Acciones",
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "email": "Correo electrónico",
+    "phone": "Teléfono",
+    "username": "Nombre de usuario",
+    "password": "Contraseña",
+    "passwordOptional": "Contraseña (déjala vacía para no cambiarla)",
+    "role": "Rol",
+    "status": "Estado",
+    "statusActive": "Activo",
+    "statusInactive": "Inactivo",
+    "validation": {
+        "passwordRequired": "La contraseña es obligatoria."
+    },
+    "delete": {
+        "modalTitle": "¿Deseas eliminar este usuario?",
+        "success": "El usuario fue eliminado correctamente",
+        "error": "Hubo un error al eliminar el usuario"
+    },
+    "load": {
+        "error": "Hubo un error al cargar el usuario"
+    },
+    "create": {
+        "success": "El usuario fue creado correctamente",
+        "error": "Hubo un error al crear el usuario"
+    },
+    "update": {
+        "success": "El usuario fue editado correctamente",
+        "error": "Hubo un error al editar el usuario"
+    },
+    "restore": {
+        "button": "Restaurar",
+        "success": "El usuario fue restaurado correctamente",
+        "error": "Hubo un error al restaurar el usuario"
+    },
+    "roles": "Roles"
+}

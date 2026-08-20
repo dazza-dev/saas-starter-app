@@ -1,0 +1,8 @@
+allowBuilds:
+    '@parcel/watcher': true
+    esbuild: true
+    vue-demi: true
+
+# pnpm 11 bloquea versiones recien publicadas. Se puede borrar cuando 1.0.5 deje de serlo.
+minimumReleaseAgeExclude:
+    - '@dazzadev/vuetify-datatable@1.0.5'

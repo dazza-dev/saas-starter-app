@@ -1,0 +1,19 @@
+{
+    "title": "Perfil",
+    "subtitle": "Gerencie suas informações pessoais",
+    "personalData": "Dados Pessoais",
+    "personalDataDesc": "Você pode alterar seus dados pessoais aqui.",
+    "credentials": "Credenciais",
+    "credentialsDesc": "Você pode alterar seus dados de acesso ao sistema aqui.",
+    "firstName": "Nomes",
+    "lastName": "Sobrenomes",
+    "email": "Email",
+    "username": "Usuário",
+    "password": "Senha",
+    "confirmPassword": "Confirmar senha",
+    "cancel": "Cancelar",
+    "save": "Salvar Perfil",
+    "saveSuccess": "Perfil atualizado com sucesso.",
+    "saveError": "Erro ao atualizar o perfil.",
+    "phone": "Telefone"
+}

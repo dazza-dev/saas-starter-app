@@ -1,0 +1,32 @@
+{
+    "pageTitle": "Roles",
+    "pageSubtitle": "Define los permisos de acceso al sistema para cada tipo de usuario",
+    "newRole": "Nuevo Rol",
+    "editRole": "Editar Rol",
+    "searchRoles": "Buscar rol",
+    "tableTitle": "Roles",
+    "tableHeaderDisplayName": "Nombre",
+    "tableHeaderDescription": "Descripción",
+    "tableHeaderActions": "Acciones",
+    "displayName": "Nombre",
+    "description": "Descripción",
+    "delete": {
+        "modalTitle": "¿Deseas eliminar este rol?",
+        "success": "El rol fue eliminado correctamente",
+        "error": "Ocurrió un error al eliminar el rol"
+    },
+    "load": {
+        "error": "Ocurrió un error al cargar el rol"
+    },
+    "create": {
+        "success": "El rol fue creado correctamente",
+        "error": "Ocurrió un error al crear el rol"
+    },
+    "update": {
+        "success": "El rol fue actualizado correctamente",
+        "error": "Ocurrió un error al actualizar el rol"
+    },
+    "permissions": "Permisos",
+    "permissionsTitle": "Permisos del rol",
+    "permissionsSaved": "Permisos actualizados correctamente"
+}

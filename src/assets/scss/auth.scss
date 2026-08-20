@@ -1,0 +1,67 @@
+/* Side login */
+.auth-hero-section {
+    overflow: hidden;
+}
+
+.auth-hero-bg-wrapper {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+
+.auth-hero-bg-image {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top center;
+    z-index: 1;
+}
+
+.auth-hero-overlay {
+    display: block;
+    position: absolute;
+    inset: 0;
+    opacity: 0.9;
+    z-index: 2;
+    pointer-events: none;
+}
+
+.auth-hero-logo-layer {
+    z-index: 3;
+}
+
+.auth-brand-logo-card {
+    padding: 25px;
+    border-radius: 20px;
+    background-color: #fff;
+}
+
+.side-login-hero-panel .auth-hero-logo-layer .logo-src.auth-brand-logo {
+    max-width: 330px !important;
+}
+
+.auth-form-section .auth-form-content {
+    width: min(90%, 680px);
+}
+
+.auth-form-section .v-form {
+    width: 100%;
+    margin: 0;
+}
+
+@media (max-width: 1279px) {
+    .auth-form-section .auth-brand-logo-card--mobile {
+        padding: 15px;
+        border-radius: 16px;
+        background-color: #fff;
+    }
+
+    .auth-form-section .logo-src.auth-brand-logo {
+        width: min(220px, 70vw) !important;
+        max-width: none !important;
+        height: auto !important;
+    }
+}

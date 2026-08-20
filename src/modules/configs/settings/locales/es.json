@@ -1,0 +1,33 @@
+{
+    "title": "Ajustes",
+    "subtitle": "Configura los parámetros generales de la aplicación",
+    "generalInfo": "Información General",
+    "appName": "Nombre de la aplicación",
+    "email": "Correo electrónico",
+    "notificationEmail": "Correo para notificaciones",
+    "language": "Idioma",
+    "timezone": "Zona horaria",
+    "design": "Diseño",
+    "logo": "Logotipo",
+    "logoHint": "Logo PNG (450px × 80px máximo)",
+    "removeLogo": "Eliminar logotipo",
+    "save": "Guardar Cambios",
+    "cancel": "Cancelar",
+    "saveSuccess": "Ajustes guardados correctamente.",
+    "saveError": "Error al guardar los ajustes.",
+    "appTheme": "Tema de la aplicación",
+    "tabs": {
+        "general": "General",
+        "design": "Diseño"
+    },
+    "themes": {
+        "default": "Default",
+        "blue": "Blue",
+        "aqua": "Aqua",
+        "purple": "Purple",
+        "green": "Green",
+        "cyan": "Cyan",
+        "orange": "Orange",
+        "emerald": "Esmeralda"
+    }
+}

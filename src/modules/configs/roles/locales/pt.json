@@ -1,0 +1,32 @@
+{
+    "pageTitle": "Funções",
+    "pageSubtitle": "Defina as permissões de acesso ao sistema para cada tipo de usuário",
+    "newRole": "Nova Função",
+    "editRole": "Editar Função",
+    "searchRoles": "Buscar função",
+    "tableTitle": "Funções",
+    "tableHeaderDisplayName": "Nome",
+    "tableHeaderDescription": "Descrição",
+    "tableHeaderActions": "Ações",
+    "displayName": "Nome",
+    "description": "Descrição",
+    "delete": {
+        "modalTitle": "Deseja excluir esta função?",
+        "success": "A função foi excluída com sucesso",
+        "error": "Ocorreu um erro ao excluir a função"
+    },
+    "load": {
+        "error": "Ocorreu um erro ao carregar a função"
+    },
+    "create": {
+        "success": "A função foi criada com sucesso",
+        "error": "Ocorreu um erro ao criar a função"
+    },
+    "update": {
+        "success": "A função foi atualizada com sucesso",
+        "error": "Ocorreu um erro ao atualizar a função"
+    },
+    "permissions": "Permissões",
+    "permissionsTitle": "Permissões da função",
+    "permissionsSaved": "Permissões atualizadas com sucesso"
+}

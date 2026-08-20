@@ -1,0 +1,33 @@
+{
+    "title": "Settings",
+    "subtitle": "Configure the general parameters of the application",
+    "generalInfo": "General Information",
+    "appName": "Application name",
+    "email": "Email",
+    "notificationEmail": "Notification email",
+    "language": "Language",
+    "timezone": "Timezone",
+    "design": "Design",
+    "logo": "Logo",
+    "logoHint": "PNG logo (450px × 80px max)",
+    "removeLogo": "Remove logo",
+    "save": "Save Changes",
+    "cancel": "Cancel",
+    "saveSuccess": "Settings saved successfully.",
+    "saveError": "Error saving the settings.",
+    "appTheme": "Application theme",
+    "tabs": {
+        "general": "General",
+        "design": "Design"
+    },
+    "themes": {
+        "default": "Default",
+        "blue": "Blue",
+        "aqua": "Aqua",
+        "purple": "Purple",
+        "green": "Green",
+        "cyan": "Cyan",
+        "orange": "Orange",
+        "emerald": "Emerald"
+    }
+}

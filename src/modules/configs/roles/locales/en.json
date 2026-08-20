@@ -1,0 +1,32 @@
+{
+    "pageTitle": "Roles",
+    "pageSubtitle": "Define system access permissions for each type of user",
+    "newRole": "New Role",
+    "editRole": "Edit Role",
+    "searchRoles": "Search role",
+    "tableTitle": "Roles",
+    "tableHeaderDisplayName": "Name",
+    "tableHeaderDescription": "Description",
+    "tableHeaderActions": "Actions",
+    "displayName": "Name",
+    "description": "Description",
+    "delete": {
+        "modalTitle": "Do you want to delete this role?",
+        "success": "The role was deleted successfully",
+        "error": "There was an error deleting the role"
+    },
+    "load": {
+        "error": "There was an error loading the role"
+    },
+    "create": {
+        "success": "The role was created successfully",
+        "error": "There was an error creating the role"
+    },
+    "update": {
+        "success": "The role was updated successfully",
+        "error": "There was an error updating the role"
+    },
+    "permissions": "Permissions",
+    "permissionsTitle": "Role permissions",
+    "permissionsSaved": "Permissions updated successfully"
+}
