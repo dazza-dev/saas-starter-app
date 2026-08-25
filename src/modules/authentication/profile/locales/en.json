@@ -1,0 +1,19 @@
+{
+    "title": "Profile",
+    "subtitle": "Manage your personal information",
+    "personalData": "Personal Data",
+    "personalDataDesc": "You can change your personal data here.",
+    "credentials": "Credentials",
+    "credentialsDesc": "You can change your system access data here.",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "username": "Username",
+    "password": "Password",
+    "confirmPassword": "Confirm password",
+    "cancel": "Cancel",
+    "save": "Save Profile",
+    "saveSuccess": "Profile updated successfully.",
+    "saveError": "Error updating profile.",
+    "phone": "Phone"
+}

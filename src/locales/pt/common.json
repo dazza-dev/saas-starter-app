@@ -1,0 +1,72 @@
+{
+    "home": "Início",
+    "new": "Novo",
+    "edit": "Editar",
+    "delete": "Excluir",
+    "change": "Trocar",
+    "remove": "Remover",
+    "uploadFailed": "Não foi possível enviar o arquivo. Tente novamente.",
+    "fileTooLarge": "A imagem excede o limite de {max} MB.",
+    "invalidFormat": "Formato não permitido. Use {formats}.",
+    "confirmDelete": "Sim, Excluir",
+    "add": "Adicionar",
+    "save": "Salvar",
+    "update": "Editar",
+    "cancel": "Cancelar",
+    "clearFilters": "Limpar filtros",
+    "duplicate": "Duplicar",
+    "confirm": "Confirmar",
+    "yes": "Sim",
+    "no": "Não",
+    "na": "N/A",
+    "active": "Ativo",
+    "inactive": "Inativo",
+    "pending": "Pendente",
+    "completed": "Concluído",
+    "deleted": "Excluído",
+    "close": "Fechar",
+    "send": "Enviar",
+    "print": "Imprimir",
+    "download": "Baixar",
+    "preview": "Visualização",
+    "type": "Tipo",
+    "files": "Arquivos",
+    "date": "Data",
+    "time": "Hora",
+    "logout": "Encerrar sessão",
+    "loggingOut": "Encerrando sessão",
+    "value": "Valor",
+    "startTyping": "Digite para pesquisar",
+    "noSearchResults": "Não há resultados de pesquisa",
+    "formValidationErrors": "Verifique o formulário em busca de erros. Certifique-se de que todos os campos obrigatórios estão preenchidos e são válidos.",
+    "unknownError": "Erro desconhecido",
+    "lang": {
+        "es": "Espanhol",
+        "en": "Inglês",
+        "pt": "Português"
+    },
+    "menu": {
+        "modules": "Módulos"
+    },
+    "errorPage": {
+        "notFound": {
+            "title": "Oops!",
+            "description": "Não conseguimos encontrar a página que você está procurando.",
+            "goHome": "Voltar ao início"
+        }
+    },
+    "forbiddenTitle": "Você não tem acesso",
+    "forbiddenMessage": "Sua função não tem permissão para ver esta tela. Se você acha que é um erro, fale com um administrador.",
+    "backToHome": "Voltar ao início",
+    "back": "Voltar",
+    "notifications": {
+        "title": "Notificações",
+        "countNew": "{count} novas",
+        "seeAll": "Ver todas",
+        "empty": "Você não tem notificações"
+    },
+    "mode": {
+        "light": "Modo claro",
+        "dark": "Modo escuro"
+    }
+}

@@ -1,0 +1,8 @@
+allowBuilds:
+    '@parcel/watcher': true
+    esbuild: true
+    vue-demi: true
+
+# pnpm 11 blocks newly published versions. Remove once 1.0.5 is no longer new.
+minimumReleaseAgeExclude:
+    - '@dazzadev/vuetify-datatable@1.0.5'

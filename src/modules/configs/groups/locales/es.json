@@ -1,0 +1,32 @@
+{
+    "pageTitle": "Grupos",
+    "pageSubtitle": "Organiza tus usuarios en grupos para segmentarlos y filtrarlos",
+    "newGroup": "Nuevo Grupo",
+    "editGroup": "Editar Grupo",
+    "searchGroups": "Buscar grupo",
+    "tableTitle": "Grupos",
+    "tableHeaderName": "Nombre",
+    "tableHeaderActions": "Acciones",
+    "name": "Nombre",
+    "delete": {
+        "modalTitle": "¿Deseas eliminar este grupo?",
+        "success": "El grupo fue eliminado correctamente",
+        "error": "Hubo un error al eliminar el grupo"
+    },
+    "load": {
+        "error": "Hubo un error al cargar el grupo"
+    },
+    "create": {
+        "success": "El grupo fue creado correctamente",
+        "error": "Hubo un error al crear el grupo"
+    },
+    "update": {
+        "success": "El grupo fue editado correctamente",
+        "error": "Hubo un error al editar el grupo"
+    },
+    "restore": {
+        "button": "Restaurar",
+        "success": "El grupo fue restaurado correctamente",
+        "error": "Hubo un error al restaurar el grupo"
+    }
+}

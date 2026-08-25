@@ -1,0 +1,13 @@
+node_modules
+dist
+coverage
+.vite
+.vscode
+.idea
+*.log
+*.tmp
+*.cache
+Dockerfile
+pnpm-lock.yaml
+yarn.lock
+package-lock.json

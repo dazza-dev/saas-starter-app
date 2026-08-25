@@ -1,0 +1,72 @@
+{
+    "home": "Home",
+    "new": "New",
+    "edit": "Edit",
+    "delete": "Delete",
+    "change": "Change",
+    "remove": "Remove",
+    "uploadFailed": "We couldn't upload the file. Please try again.",
+    "fileTooLarge": "The image exceeds the {max} MB limit.",
+    "invalidFormat": "Unsupported format. Use {formats}.",
+    "confirmDelete": "Yes, Delete",
+    "add": "Add",
+    "save": "Save",
+    "update": "Update",
+    "cancel": "Cancel",
+    "clearFilters": "Clear filters",
+    "duplicate": "Duplicate",
+    "confirm": "Confirm",
+    "yes": "Yes",
+    "no": "No",
+    "na": "N/A",
+    "active": "Active",
+    "inactive": "Inactive",
+    "pending": "Pending",
+    "completed": "Completed",
+    "deleted": "Deleted",
+    "close": "Close",
+    "send": "Send",
+    "print": "Print",
+    "download": "Download",
+    "preview": "Preview",
+    "type": "Type",
+    "files": "Files",
+    "date": "Date",
+    "time": "Time",
+    "logout": "Logout",
+    "loggingOut": "Logging out",
+    "value": "Value",
+    "startTyping": "Start typing to search",
+    "noSearchResults": "No search results",
+    "formValidationErrors": "Please check the form for errors. Ensure all required fields are completed and valid.",
+    "unknownError": "Unknown error",
+    "lang": {
+        "es": "Spanish",
+        "en": "English",
+        "pt": "Portuguese"
+    },
+    "menu": {
+        "modules": "Modules"
+    },
+    "errorPage": {
+        "notFound": {
+            "title": "Oops!",
+            "description": "The page you are looking for could not be found.",
+            "goHome": "Go Back to Home"
+        }
+    },
+    "forbiddenTitle": "You don't have access",
+    "forbiddenMessage": "Your role does not have permission to view this screen. If you think this is a mistake, contact an administrator.",
+    "backToHome": "Back to home",
+    "back": "Back",
+    "notifications": {
+        "title": "Notifications",
+        "countNew": "{count} new",
+        "seeAll": "See all",
+        "empty": "You have no notifications"
+    },
+    "mode": {
+        "light": "Light mode",
+        "dark": "Dark mode"
+    }
+}

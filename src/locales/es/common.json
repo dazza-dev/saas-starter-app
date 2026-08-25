@@ -1,0 +1,72 @@
+{
+    "home": "Inicio",
+    "new": "Nuevo",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "change": "Cambiar",
+    "remove": "Quitar",
+    "uploadFailed": "No pudimos subir el archivo. Inténtalo de nuevo.",
+    "fileTooLarge": "La imagen supera el máximo de {max} MB.",
+    "invalidFormat": "Formato no permitido. Usa {formats}.",
+    "confirmDelete": "Si, Eliminar",
+    "add": "Agregar",
+    "save": "Guardar",
+    "update": "Editar",
+    "cancel": "Cancelar",
+    "clearFilters": "Limpiar filtros",
+    "duplicate": "Duplicar",
+    "confirm": "Confirmar",
+    "yes": "Si",
+    "no": "No",
+    "na": "N/A",
+    "active": "Activo",
+    "inactive": "Inactivo",
+    "pending": "Pendiente",
+    "completed": "Completado",
+    "deleted": "Eliminado",
+    "close": "Cerrar",
+    "send": "Enviar",
+    "print": "Imprimir",
+    "download": "Descargar",
+    "preview": "Vista previa",
+    "type": "Tipo",
+    "files": "Archivos",
+    "date": "Fecha",
+    "time": "Hora",
+    "logout": "Cerrar sesión",
+    "loggingOut": "Cerrando sesión",
+    "value": "Valor",
+    "startTyping": "Escriba para buscar",
+    "noSearchResults": "No hay resultados de búsqueda",
+    "formValidationErrors": "Por favor, revisa el formulario. Asegúrate de que todos los campos requeridos estén completados y sean válidos.",
+    "unknownError": "Error desconocido",
+    "lang": {
+        "es": "Español",
+        "en": "Ingles",
+        "pt": "Portugués"
+    },
+    "menu": {
+        "modules": "Módulos"
+    },
+    "errorPage": {
+        "notFound": {
+            "title": "¡Ups!",
+            "description": "No pudimos encontrar la página que buscas.",
+            "goHome": "Volver al inicio"
+        }
+    },
+    "forbiddenTitle": "No tienes acceso",
+    "forbiddenMessage": "Tu rol no tiene permiso para ver esta pantalla. Si crees que es un error, habla con el administrador.",
+    "backToHome": "Volver al inicio",
+    "back": "Volver",
+    "notifications": {
+        "title": "Notificaciones",
+        "countNew": "{count} nuevas",
+        "seeAll": "Ver todas",
+        "empty": "No tienes notificaciones"
+    },
+    "mode": {
+        "light": "Modo claro",
+        "dark": "Modo oscuro"
+    }
+}

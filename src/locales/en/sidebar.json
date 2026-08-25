@@ -1,0 +1,12 @@
+{
+    "home": "Home",
+    "dashboard": "Home",
+    "back": "Back",
+    "users": "Users",
+    "groups": "Groups",
+    "roles": "Roles",
+    "configs": "Configuration",
+    "settings": "Settings",
+    "moduleApp": "Application",
+    "moduleAppDescription": "Users, roles and settings"
+}

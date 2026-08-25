@@ -1,0 +1,48 @@
+{
+    "pageTitle": "Users",
+    "pageSubtitle": "Manage who has access to the application and what they can do",
+    "newUser": "New User",
+    "editUser": "Edit User",
+    "searchUsers": "Search user",
+    "tableHeaderName": "Name",
+    "tableHeaderEmail": "Email",
+    "tableHeaderRole": "Role",
+    "tableHeaderStatus": "Status",
+    "tableHeaderActions": "Actions",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "email": "Email",
+    "phone": "Phone",
+    "username": "Username",
+    "password": "Password",
+    "passwordOptional": "Password (leave blank to keep it)",
+    "role": "Role",
+    "status": "Status",
+    "statusActive": "Active",
+    "statusInactive": "Inactive",
+    "validation": {
+        "passwordRequired": "The password is required."
+    },
+    "delete": {
+        "modalTitle": "Do you want to delete this user?",
+        "success": "The user was deleted successfully",
+        "error": "There was an error deleting the user"
+    },
+    "load": {
+        "error": "There was an error loading the user"
+    },
+    "create": {
+        "success": "The user was created successfully",
+        "error": "There was an error creating the user"
+    },
+    "update": {
+        "success": "The user was updated successfully",
+        "error": "There was an error updating the user"
+    },
+    "restore": {
+        "button": "Restore",
+        "success": "The user was restored successfully",
+        "error": "There was an error restoring the user"
+    },
+    "roles": "Roles"
+}
